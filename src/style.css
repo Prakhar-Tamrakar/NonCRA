@@ -1,0 +1,74 @@
+    *{
+        margin: 0px;
+        padding: 0px;
+        box-sizing: border-box;
+        font-family : "Jost";
+    }
+    section{
+        width: 100%;
+        height : 100vh;
+        background-image: linear-gradient(
+            rgba(0,0,0,0.3),
+            rgba(0,0,0,0.3)
+            ),
+            url("peakpx\ \(14\).jpg");
+        display: grid;
+        place-items: center;
+        text-align: center;
+        background-attachment: fixed;
+    }
+    .section-2
+    {
+        width: 100%;
+        height : 100vh;
+        background-image: linear-gradient(
+            rgba(0,0,0,0.3),
+            rgba(0,0,0,0.3)
+            ),
+            url("peakpx\ \(15\).jpg");
+        display: grid;
+        place-items: center;
+        text-align: center;
+
+    }
+    .section-3{
+        width: 100%;
+        height : 100vh;
+        background-image: linear-gradient(
+            rgba(0,0,0,0.3),
+            rgba(0,0,0,0.3)
+            ),
+            url("peakpx\ \(16\).jpg");
+        display: grid;
+        place-items: center;
+        text-align: center;
+        background-attachment: fixed;
+    }
+    .section-4
+    {
+        width: 100%;
+        height : 100vh;
+        background-image: linear-gradient(
+            rgba(0,0,0,0.3),
+            rgba(0,0,0,0.3)
+            ),
+            url("peakpx\ \(17\).jpg");
+        display: grid;
+        place-items: center;
+        text-align: center;
+
+    }
+    h2{
+        /* font-size: 64px; */
+        font-size: 6rem;
+        font-weight: bold;
+        color: #fff;
+        text-transform:uppercase ;
+        text-shadow: 2px 2px 5px #aa5f5f;
+    }
+    p
+    {
+        /* font-size: 25px; */
+        font-size: 3rem;
+        color: white;
+    }
